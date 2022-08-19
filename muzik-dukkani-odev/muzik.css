@@ -1,0 +1,19 @@
+.container {
+    background: #E9ECEF;
+}
+.display-4 {
+    text-align: center;
+}
+.card-img-top {
+    width: 100%;
+    height: 35vh;
+    object-fit: contain;
+    }
+#urun {
+    text-decoration: underline 4px;
+}
+.header{
+    color:red;
+    text-align: center;
+    text-decoration: underline 4px;
+}
